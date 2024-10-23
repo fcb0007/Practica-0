@@ -27,6 +27,39 @@ Para realizar un salto de línea solo tendremos que dejar dos espacios o más al
 Esta es la forma de realizar  
 un salto de línea.  
 
+## Texto en negrita  
+Para poner texto en negrita lo pondremos entre dobles asteriscos "**".  
+Este texto se vería así "**Ejemplo**"  
+
+## Texto en cursiva
+Para poner texto en cursiva meteremos el texto que queramos entre asteriscos "*".  
+Aquí tenemos un *ejemplo*.  
+
+## Negrita y cursiva
+Si queremos nuestro texto en negrita y cursiva usaremos triple asterisco "***" al principio y al final del texto.
+Así sería el resultado ***ejemplo***.
+
+## Citas en bloques
+Para crear bloques usaremos ">" antes del texto, aqui veremos un ejemplo
+>Este es un ejemplo de bloque
+
+## Bloques con varios párrafos
+Si queremos crear párrafos dejaremos una línea en blanco Con un ">" al principio y después seguimos en las siguientes líneas con el símbolo también al principio
+>Este sería un ejemplo de como
+>
+>creamos varios párrafos.
+
+## Listas  
+Podemos organizar el texto en listas
+
+### Listas ordenadas
+
+
+
+
+                        
+
+
 
 
 
