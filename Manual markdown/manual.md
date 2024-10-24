@@ -53,6 +53,21 @@ Si queremos crear párrafos dejaremos una línea en blanco Con un ">" al princip
 Podemos organizar el texto en listas
 
 ### Listas ordenadas
+Para crear listas ordenadas solamente debemos poner un número seguido de un punto,  
+no tenemos por qué seguir un orden pero siempre deben empezar por un uno.
+1. Primero
+2. Segundo
+3. Tercero
+
+### Listas desordenadas
+Para crear listas desordenadas podemos usar "-", "+" o "*" al inicio de cada elemento, para crear listas anidadas solo tenemos que tabular los elementos que queramos.
++Elemento
++Elemento
+  +Elemento
++Elemento
+
+
+
 
 
 
