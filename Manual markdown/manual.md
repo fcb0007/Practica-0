@@ -23,7 +23,7 @@ hacer un párrafo.
 No dejaremos espacios ni tabulaciones al principio de los párrafos.
 
 ## Saltos de línea
-Para realizar un salto de línea solo tendremos que dejar dos espacios o más al final y pulsar intro para seguir escribiendo en la siguiente:
+Para realizar un salto de línea solo tendremos que dejar dos espacios o más al final y pulsar intro para seguir escribiendo en la siguiente:  
 Esta es la forma de realizar  
 un salto de línea.  
 
@@ -66,6 +66,11 @@ para crear listas anidadas solo tenemos que tabular los elementos que queramos.
 + Elemento
   + Elemento
 + Elemento
+
+## Imágenes
+Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una exclamación !, seguida del texto alternativo entre corchetes y la dirección de la imagen entre paréntesis
+´![Texto alternativo](/direcciondelaimagen)´
+ ![Logo de git](/git.png)
 
 
 
