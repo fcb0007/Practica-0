@@ -60,11 +60,12 @@ no tenemos por qué seguir un orden pero siempre deben empezar por un uno.
 3. Tercero
 
 ### Listas desordenadas
-Para crear listas desordenadas podemos usar "-", "+" o "*" al inicio de cada elemento, para crear listas anidadas solo tenemos que tabular los elementos que queramos.
-+Elemento
-+Elemento
-  +Elemento
-+Elemento
+Para crear listas desordenadas podemos usar "-", "+" o "*" seguido de un espacio al inicio de cada elemento de la lista,  
+para crear listas anidadas solo tenemos que tabular los elementos que queramos.
++ Elemento
++ Elemento
+  + Elemento
++ Elemento
 
 
 
