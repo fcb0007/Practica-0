@@ -14,9 +14,9 @@ La sintaxis correcta se realizará dejando un espacio entre la almohadilla y el 
 `# Título`
 
 ## Párrafos
-Para crear párrafos lo haremos como en un editor de texto normal, solo tendremos que dejar una línea en blanco:
-Este es el manual de markdown.
-
+Para crear párrafos lo haremos como en un editor de texto normal, solo tendremos que dejar una línea en blanco:  
+>Este es el manual de markdown.
+>
 >En este ejemplo vemos lo fácil que es  
 >hacer un párrafo.
 
