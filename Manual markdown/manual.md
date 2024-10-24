@@ -70,7 +70,7 @@ para crear listas anidadas solo tenemos que tabular los elementos que queramos.
 ## Imágenes
 Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una exclamación !, seguida del texto alternativo entre corchetes y la dirección de la imagen entre paréntesis
 `![Texto alternativo](/direcciondelaimagen)`
-> ![Logo de git](/Manualmarkdown/git.png)
+>![Logo de git](https://github.com/fcb0007/Practica-0/blob/9472a8b3bd87aa1e2218bf6e53fda05d640d461c/Manual%20markdown/git.png)
 
 ## Enlaces
  Para crear un enlace, cerramos el texto en el que incrustamos el en enlace entre corchetes (ej. [Texto]) y después seguido de esto el enlace entre paréntesis (ej, (http://enlace.com)), nos quedará como en este ejemplo:  
