@@ -5,7 +5,8 @@
 ### Método alternativo
 Otro método para crear títulos del mayor tamaño sería poniendo debajo a lo largo del texto el símbolo `=` como en este ejemplo
 >`Ejemplo`
->`=======`  
+>`=======`
+
 Para el segundo mayor tamaño sería igual pero con el símbolo `-`
 
 ### Buenas prácticas
