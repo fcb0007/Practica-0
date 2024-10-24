@@ -69,8 +69,8 @@ para crear listas anidadas solo tenemos que tabular los elementos que queramos.
 
 ## Imágenes
 Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una exclamación !, seguida del texto alternativo entre corchetes y la dirección de la imagen entre paréntesis
-´![Texto alternativo](/direcciondelaimagen)´
- ![Logo de git](/git.png)
+![Texto alternativo](/direcciondelaimagen)
+ ![Logo de git](/Manual-markdown/git.png)
 
 
 
