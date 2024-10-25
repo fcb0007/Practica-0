@@ -74,7 +74,7 @@ Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una
 >![Logo Github](./git.png)
 
 ## Enlaces
- Para crear un enlace, cerramos el texto en el que incrustamos el en enlace entre corchetes (ej. [Texto]) y después seguido de esto el enlace entre paréntesis (ej, (http://enlace.com)), nos quedará como en este ejemplo:  
+Para crear un enlace, cerramos el texto en el que incrustaremos el en enlace entre corchetes `ej. [Texto]` a continuación el enlace entre paréntesis `ej, (http://enlace.com)`, nos quedará así `[Texto](http://enlace.com)`, aquí tenemos un ejemplo real:  
 >[Manual de markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Código
@@ -121,7 +121,9 @@ En este caso se vería así:
 >| Columna | Columna |   
 >| --- | --- |   
 >| Contenido | Contenido  |   
->| Contenido | Podemos insertar un contenido más extenso y la tabla se adaptará a el |  
+>| Contenido | Podemos insertar un contenido más extenso y la tabla se adaptará a el |
+
+### Alinear contenido
 
 Puede alinear el texto a la izquierda, a la derecha o centrarlo usaremos dos puntos `:` a la izquierda, a la derecha o a ambos lados de los guiones en la línea de encabezamiento.
 >```
