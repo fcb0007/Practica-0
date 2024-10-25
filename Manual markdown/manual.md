@@ -69,7 +69,7 @@ para crear listas anidadas solo tenemos que tabular los elementos que queramos.
 >+ Elemento
 
 ## Imágenes
-Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una exclamación !, seguida del texto alternativo entre corchetes y la ruta relatva de la imagen entre paréntesis si se encuentra en nuestro repositorio o una url.
+Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una exclamación !, seguida del texto alternativo entre corchetes y la ruta relatva de la imagen entre paréntesis si se encuentra en nuestro repositorio o una url:    
 `![Texto alternativo](/direcciondelaimagen)` o `![Texto alternativo](http://urldelaimagen.com)`
 >![Logo Github](./git.png)
 
@@ -94,10 +94,12 @@ Podemos crear bloques de código delimitados colocando comillas simples triples 
 ## Tablas
 Puede crear tablas con canalizaciones `|` y guiones `-`. Los guiones se usan para crear cada encabezado de columna, mientras que las barras verticales separan cada columna. Debes incluir una línea en blanco antes de tu tabla para que se representen correctamente.
 
->`|   Primera columna   |   Segunda columna  |      
->| ------------------- | ------------------ |      
->|   Contenido cleda   |   Contenido celda  |      
->|   Contenido celda   |   Contenido celda  |`       
+>```
+>|   Primera columna   |   Segunda columna  |  
+>| ------------------- | ------------------ |  
+>|   Contenido cleda   |   Contenido celda  |  
+>|   Contenido celda   |   Contenido celda  |
+>```   
 
 Así se verá nuestro ejemplo:  
 
@@ -107,11 +109,12 @@ Así se verá nuestro ejemplo:
 >|   Contenido celda   |   Contenido celda  |
 
 Las celdas pueden variar en el ancho y no es necesario que estén perfectamente alineadas dentro de las columnas. Debe haber al menos tres guiones en cada columna de la línea de encabezamiento.
-
->`| Columna | Columna |       
+>```
+>| Columna | Columna |       
 >| --- | --- |     
 >| Contenido | Contenido  |     
->| Contenido | Podemos insertar un contenido más extenso y la tabla se adaptará a el |`  
+>| Contenido | Podemos insertar un contenido más extenso y la tabla se adaptará a el |
+>``` 
 
 En este caso se vería así:      
 
@@ -121,11 +124,12 @@ En este caso se vería así:
 >| Contenido | Podemos insertar un contenido más extenso y la tabla se adaptará a el |  
 
 Puede alinear el texto a la izquierda, a la derecha o centrarlo usaremos dos puntos `:` a la izquierda, a la derecha o a ambos lados de los guiones en la línea de encabezamiento.
-
->`| Alineado a la izquierda | Centrado | Alineado a la derecha |    
+>```
+>| Alineado a la izquierda | Centrado | Alineado a la derecha |    
 >| :---         |     :---:      |          ---: |    
 >| Contenido   | Contenido     | Contenido    |   
->| Contenido     | Contenido       | Contenido     |`  
+>| Contenido     | Contenido       | Contenido     |
+>```
 
 Y este será el resultado:
 
