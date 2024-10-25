@@ -12,8 +12,8 @@ Para el segundo mayor tamaño sería igual pero con el símbolo `-`
 ### Buenas prácticas
 La sintaxis correcta se realizará dejando un espacio entre la almohadilla y el título:
 `# Título`
-
-
+  
+  
 ## Párrafos
 Para crear párrafos lo haremos como en un editor de texto normal, solo tendremos que dejar una línea en blanco:  
 >Este es el manual de markdown.
@@ -23,29 +23,29 @@ Para crear párrafos lo haremos como en un editor de texto normal, solo tendremo
 
 ### Buenas prácticas
 No dejaremos espacios ni tabulaciones al principio de los párrafos.
-
-
+  
+  
 ## Saltos de línea
 Para realizar un salto de línea solo tendremos que dejar dos espacios o más al final y pulsar intro para seguir escribiendo en la siguiente:  
 >Esta es la forma de realizar  
 >un salto de línea.  
-
-
+  
+  
 ## Texto en negrita  
 Para poner texto en negrita lo pondremos entre dobles asteriscos `**`.  
 >Este texto se vería así **Ejemplo**  
-
-
+  
+  
 ## Texto en cursiva
 Para poner texto en cursiva meteremos el texto que queramos entre asteriscos `*`.  
 >Aquí tenemos un *ejemplo*.  
-
-
+  
+  
 ## Negrita y cursiva
 Si queremos nuestro texto en negrita y cursiva usaremos triple asterisco `***` al principio y al final del texto.
 >Así sería el resultado ***ejemplo***.
-
-
+  
+  
 ## Citas en bloques
 Para crear bloques usaremos `>` antes del texto, aqui veremos un ejemplo
 >Este es un ejemplo de bloque
@@ -55,8 +55,8 @@ Si queremos crear párrafos dejaremos una línea en blanco Con un `>` al princip
 >Este sería un ejemplo de como
 >
 >creamos varios párrafos.
-
-
+  
+  
 ## Listas  
 Podemos organizar el texto en listas
 
@@ -74,19 +74,19 @@ para crear listas anidadas solo tenemos que tabular los elementos que queramos.
 >+ Elemento
 >    + Elemento
 >+ Elemento
-
-
+  
+  
 ## Imágenes
 Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una exclamación !, seguida del texto alternativo entre corchetes y la ruta relatva de la imagen entre paréntesis si se encuentra en nuestro repositorio o una url:    
 `![Texto alternativo](/direcciondelaimagen)` o `![Texto alternativo](http://urldelaimagen.com)`
 >![Logo Github](./git.png)
-
-
+  
+  
 ## Enlaces
 Para crear un enlace, cerramos el texto en el que incrustaremos el en enlace entre corchetes `ej. [Texto]` a continuación el enlace entre paréntesis `ej, (http://enlace.com)`, nos quedará así `[Texto](http://enlace.com)`, aquí tenemos un ejemplo real:  
 >[Manual de markdown](https://www.markdownguide.org/basic-syntax/)
-
-
+  
+  
 ## Código
 Para dar formato de código a un texto lo acotaremos de dos comillas invertidas  (`). A continuación veremos un ejemplo:        
  
@@ -101,8 +101,8 @@ Podemos crear bloques de código delimitados colocando comillas simples triples 
       </head>
    </html>
 ````
-
-
+  
+  
 ## Tablas
 Puede crear tablas con canalizaciones `|` y guiones `-`. Los guiones se usan para crear cada encabezado de columna, mientras que las barras verticales separan cada columna. Debes incluir una línea en blanco antes de tu tabla para que se representen correctamente.
 
