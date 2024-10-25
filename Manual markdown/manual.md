@@ -69,10 +69,9 @@ para crear listas anidadas solo tenemos que tabular los elementos que queramos.
 >+ Elemento
 
 ## Imágenes
-Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una exclamación !, seguida del texto alternativo entre corchetes y la dirección de la imagen entre paréntesis
-`![Texto alternativo](/direcciondelaimagen)`
->![Logo de git](https://github.com/fcb0007/Practica-0/blob/83de4d83943999e546386ca4887f76f0c1539988/Manual%20markdown/git.png)
-![logo](./git.png)
+Si queremos insertar una imagen debemos hacerlo con esta estructura, primero una exclamación !, seguida del texto alternativo entre corchetes y la ruta relatva de la imagen entre paréntesis si se encuentra en nuestro repositorio o una url.
+`![Texto alternativo](/direcciondelaimagen)` o `![Texto alternativo](http://urldelaimagen.com)`
+>![Logo Github](./git.png)
 
 ## Enlaces
  Para crear un enlace, cerramos el texto en el que incrustamos el en enlace entre corchetes (ej. [Texto]) y después seguido de esto el enlace entre paréntesis (ej, (http://enlace.com)), nos quedará como en este ejemplo:  
@@ -95,10 +94,47 @@ Podemos crear bloques de código delimitados colocando comillas simples triples 
 ## Tablas
 Puede crear tablas con canalizaciones `|` y guiones `-`. Los guiones se usan para crear cada encabezado de columna, mientras que las barras verticales separan cada columna. Debes incluir una línea en blanco antes de tu tabla para que se representen correctamente.
 
-|   Primera columna   |   Segunda columna  |
-| ------------------- | ------------------ |
-|   Contenido cleda   |   Contenido celda  |
-|   Contenido celda   |   Contenido celda  |
+`|   Primera columna   |   Segunda columna  |  
+| ------------------- | ------------------ |  
+|   Contenido cleda   |   Contenido celda  |  
+|   Contenido celda   |   Contenido celda  |`  
+
+Así se verá nuestro ejemplo:  
+
+>|   Primera columna   |   Segunda columna  |
+>| ------------------- | ------------------ |
+>|   Contenido cleda   |   Contenido celda  |
+>|   Contenido celda   |   Contenido celda  |
+
+Las celdas pueden variar en el ancho y no es necesario que estén perfectamente alineadas dentro de las columnas. Debe haber al menos tres guiones en cada columna de la línea de encabezamiento.
+
+>´| Columna | Columna |   
+>| --- | --- |   
+>| Contenido | Contenido  |   
+>| Contenido | Podemos insertar un contenido más extenso y la tabla se adaptará a el |´
+
+En este caso se vería así:      
+
+>| Columna | Columna |   
+>| --- | --- |   
+>| Contenido | Contenido  |   
+>| Contenido | Podemos insertar un contenido más extenso y la tabla se adaptará a el |  
+
+Puede alinear el texto a la izquierda, a la derecha o centrarlo usaremos dos puntos `:` a la izquierda, a la derecha o a ambos lados de los guiones en la línea de encabezamiento.
+
+`| Alineado a la izquierda | Centrado | Alineado a la derecha |    
+| :---         |     :---:      |          ---: |    
+| Contenido   | Contenido     | Contenido    |   
+| Contenido     | Contenido       | Contenido     |`  
+
+Y este será el resultado:
+
+>| Alineado a la izquierda | Centrado | Alineado a la derecha |
+>| :---         |     :---:      |          ---: |
+>| Contenido   | Contenido     | Contenido    |
+>| Contenido     | Contenido       | Contenido     |
+
+
 
 
 
