@@ -30,7 +30,7 @@ Para realizar un salto de línea solo tendremos que dejar dos espacios o más al
 
 ## Texto en negrita  
 Para poner texto en negrita lo pondremos entre dobles asteriscos `**`.  
->Este texto se vería así "**Ejemplo**"  
+>Este texto se vería así **Ejemplo**  
 
 ## Texto en cursiva
 Para poner texto en cursiva meteremos el texto que queramos entre asteriscos `*`.  
